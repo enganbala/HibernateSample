@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="vel"/>
+  <table-filter match-name="blog_comments"/>
+  <table-filter match-name="blog_tag"/>
+  <table-filter match-name="blog_post"/>
+  <table-filter match-name="blog_user"/>
+  <table-filter match-name="blog_user_profile"/>
+  <table-filter match-name="blog_category"/>
+</hibernate-reverse-engineering>
